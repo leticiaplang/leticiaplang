@@ -9,7 +9,7 @@ Para quem não me conhece ainda, cá uma breve introdução:
 - Sou natural do Rio grande do Sul 
 - No momento estou buscando cidadania menezesh em Santa Catarina. Recomendo um preview <https://www.youtube.com/watch?v=yMWwoSuYTiw>
 - Sou enfermeira controladora de infecção de formação, o que me proporcinou muito amadurecimento pessoal, social e intelectual
-- Continuo me aventurando pelas possibilidades da 4º revolução industrial, agora em Data Science 👩🏼‍💻🐶
+- Continuo me aventurando pelas possibilidades da 4º revolução industrial 👩🏼‍💻🐶
 - Meu objetivo de vida é buscar e manter harmonia, aprender sempre e ajudar as pessoas
 - Adoro natureza, simplicidade, casa cheia e um bom livro 
 
@@ -17,6 +17,8 @@ Para quem não me conhece ainda, cá uma breve introdução:
 
 
 ### Se você tiver interesse em novas parcerias, só chegar ☕ 🍪
+
+
 
 ##
 
@@ -38,16 +40,19 @@ Para quem não me conhece ainda, cá uma breve introdução:
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.svgrepo.com/show/303193/microsoft-excel-2013-logo.svg">
 </div>
   
-  
-  
-  
-  ##
  
+  
+  ## 
+ 
+  ![Alt text](https://www.markspaneth.com/assets/images/blog/_list_image/02_02_18_508408464_AAB_560x292.jpg)
+  
+  
+  
 <div> 
  
-  <a href = "mailto:leticiaplang@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:leticiaplang@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticiaplang" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.twitch.tv/leticiaplang" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- 
- 
+  <a href="https://medium.com/@leticiaplang/about" target="_blank"><img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href="https://leticiaplang.github.io/lpl_posts/" target="_blank"><img src="https://img.shields.io/badge/Posts-EAD122?style=for-the-badge&logo=blog&logoColor=white" target="_blank"></a>
 </div>
