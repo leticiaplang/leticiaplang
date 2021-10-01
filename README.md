@@ -59,7 +59,3 @@ Para quem não me conhece ainda, cá uma breve introdução:
 </div>
 
   
-##
-  
-
-  
