@@ -1,8 +1,11 @@
 
 ### Buenas, pessoal!
+
 Fico mega feliz por vocês estarem aqui agora 😄
 
+
 ##
+
 
 Para quem não me conhece ainda, cá uma breve introdução:
 - Me chamo Letícia 
@@ -13,6 +16,7 @@ Para quem não me conhece ainda, cá uma breve introdução:
 - Meu objetivo de vida é buscar e manter harmonia, aprender sempre e ajudar as pessoas
 - Adoro natureza, simplicidade, casa cheia e um bom livro 
 
+
 ##
 
 
@@ -20,6 +24,7 @@ Para quem não me conhece ainda, cá uma breve introdução:
 
 
 ##
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -30,7 +35,22 @@ Para quem não me conhece ainda, cá uma breve introdução:
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.svgrepo.com/show/303193/microsoft-excel-2013-logo.svg">
 </div>
 
+
 ##
+
+
+   
+<div> 
+  <a href = "mailto:leticiaplang@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leticiaplang" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.twitch.tv/leticiaplang" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@leticiaplang/about" target="_blank"><img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href="https://leticiaplang.github.io/lpl_posts/" target="_blank"><img src="https://img.shields.io/badge/Posts-EAD122?style=for-the-badge&logo=blog&logoColor=white" target="_blank"></a>
+</div>
+
+
+##
+
 
 <div align="center">
   <a href="https://github.com/leticiaplang">
@@ -38,16 +58,8 @@ Para quem não me conhece ainda, cá uma breve introdução:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaplang&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  ##
-   
-<div> 
- 
-  <a href = "mailto:leticiaplang@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leticiaplang" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.twitch.tv/leticiaplang" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://medium.com/@leticiaplang/about" target="_blank"><img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-  <a href="https://leticiaplang.github.io/lpl_posts/" target="_blank"><img src="https://img.shields.io/badge/Posts-EAD122?style=for-the-badge&logo=blog&logoColor=white" target="_blank"></a>
-</div>
+  
+##
   
 
   
