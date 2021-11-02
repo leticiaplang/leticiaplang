@@ -8,9 +8,9 @@ Fico mega feliz por vocês estarem aqui agora 😄
 
 
 Para quem não me conhece ainda, cá uma breve introdução:
-- Me chamo Letícia 
-- Sou natural do Rio grande do Sul 
-- No momento estou buscando cidadania menezesh em Santa Catarina. Recomendo um preview <https://www.youtube.com/watch?v=yMWwoSuYTiw>
+- Pode me chamar de Lê, Tícia, Leti ou demais conforme criatividade
+- Sou natural do interior do Rio grande do Sul 
+- Eshtou bushcando aprimorá a linguage menezesh em Santa Catarina. Recomendo um preview <https://www.youtube.com/watch?v=yMWwoSuYTiw>
 - Sou enfermeira controladora de infecção de formação, o que me proporcinou muito amadurecimento pessoal, social e intelectual
 - Continuo me aventurando pelas possibilidades da 4º revolução industrial 👩🏼‍💻🐶
 - Meu objetivo de vida é buscar e manter harmonia, aprender sempre e ajudar as pessoas
