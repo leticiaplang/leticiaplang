@@ -1,27 +1,5 @@
 
-### Buenas, pessoal!
-
-Fico mega feliz por vocês estarem aqui agora 😄
-
-
-##
-
-
-Para quem não me conhece ainda, cá uma breve introdução:
-- Pode me chamar de Lê, Tícia, Leti ou demais conforme criatividade
-- Sou natural do interior do Rio grande do Sul 
-- Tô bushcandu aprimorá a linguage menezesh em Florianópolish. 
-   👉 Recomendo um preview <https://www.youtube.com/watch?v=yMWwoSuYTiw>
-- Sou enfermeira controladora de infecção de formação, o que me proporcinou muito amadurecimento pessoal, social e intelectual
-- Continuo me aventurando pelas possibilidades da 4º revolução industrial 👩🏼‍💻🐶
-- Meu objetivo de vida é buscar e manter harmonia, aprender sempre e ajudar as pessoas
-- Adoro natureza, simplicidade, casa cheia e um bom livro 
-
-
-##
-
-
-### Se você tiver interesse em novas parcerias, só chegar ☕ 🍪
+### Só se aprochegar que vem muito código e aprendizado por aqui ☕ 🍪
 
 
 ##
