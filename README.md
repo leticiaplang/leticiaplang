@@ -1,9 +1,9 @@
 
 ### Só se aprochegar  ☕ 🍪
                          que vem 
-                             muito código 
+                              muito código 
                                     & aprendizado 
-                                         por aqui 👩‍💻🐶
+                                          por aqui 👩‍💻🐶
 
 ##
 
