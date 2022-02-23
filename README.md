@@ -1,6 +1,9 @@
 
 ### Welcome to my data world!  ☕ 🍪 🐶 👩‍💻
 
+<p align=right> 
+  <img src="https://media2.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47lxndicitg8vud7vw1h9bqgvvjqo2lgtni15vjuju&rid=giphy.gif&ct=g" alt="animated" />
+</p>
 
 ##
 <p align=left>
@@ -11,9 +14,7 @@
   <h4> Or if you want know my 4 choosen projects to start, you can scroll the page and you will have resume and access for those projects. 
     
 
-<p align=right> 
-  <img src="https://media2.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47lxndicitg8vud7vw1h9bqgvvjqo2lgtni15vjuju&rid=giphy.gif&ct=g" alt="animated" />
-</p>
+
 
 
 <div style="display: inline_block"><br>
