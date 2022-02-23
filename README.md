@@ -1,6 +1,43 @@
 
 ### Welcome to my data world!  ☕ 🍪
 
+.main-topic {
+    border: 2px solid green;
+    width: 1541px;
+    margin: 0 auto;
+    clear: both;
+}
+
+.left-text{
+    vertical-align:middle;
+}
+
+.right-picture{
+    float: right;
+}
+
+.right-picture > img{
+    display: block;
+}
+
+.clear{
+    clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align=right> 
   <img src="https://media2.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47lxndicitg8vud7vw1h9bqgvvjqo2lgtni15vjuju&rid=giphy.gif&ct=g" alt="animated" />
 </p>
