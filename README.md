@@ -4,11 +4,11 @@
 
 ##
 <p align=left>
-  <h3> Here you can find basicaly my public projects and my contacts. 
-  <h3> It's gonna be a pleasure meet you and your projects too, so let's get in touch 
-  <h3> If you want know all my publications, you can access My universe. There I post experience, teory and codes with their respective links to all content.
-  <h3> If you are lookinf for my codes and you are not familiar with github, you can access My notebooks. There I publish my all notebooks and there is the possibility of search by content or select by tags.
-  <h3> Or if you want know my 4 choosen projects to start, you can scroll the page and you will have resume and access for those projects. 
+  <h4> Here you can find basicaly my public projects and my contacts. 
+  <h4> It's gonna be a pleasure meet you and your projects too, so let's get in touch 
+  <h4> If you want know all my publications, you can access My universe. There I post experience, teory and codes with their respective links to all content.
+  <h4> If you are lookinf for my codes and you are not familiar with github, you can access My notebooks. There I publish my all notebooks and there is the possibility of search by content or select by tags.
+  <h4> Or if you want know my 4 choosen projects to start, you can scroll the page and you will have resume and access for those projects. 
     
 
 <p align=right> 
