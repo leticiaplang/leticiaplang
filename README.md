@@ -1,14 +1,10 @@
 
-### Welcome!  ☕ 🍪
-                         que vem 
-                              muito código 
-                                    & aprendizado 
-                                          por aqui 👩‍💻🐶
+### Welcome!  ☕ 🍪 🐶
 
 ##
 
 
-<p align=center> 
+<p align=right> 
   <img src="https://media2.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47lxndicitg8vud7vw1h9bqgvvjqo2lgtni15vjuju&rid=giphy.gif&ct=g" alt="animated" />
 </p>
 
