@@ -30,7 +30,7 @@
 
 ▫️ If you are looking for *My Codes Only & you are Familiar with GitHub*, you can access [My Notebooks](https://leticiaplang.github.io/lpl_posts/) too. There I publish the link for github.
 
-▫️ Or if you want know my *4 Choosen Projects to Start*, you can scroll the page and you are going to find abstract and access for these projects. 
+▫️ Or if you want know my *4 Choosen Projects to Start*, you can scroll down the page and you are going to find abstract and access for these projects. 
 
                                                                                                                     
 ## So now... let's see some of my projects!                                                                                                                          
