@@ -2,7 +2,7 @@
   <a href = "mailto:leticiaplang@gmail.com"><img src="https://img.shields.io/badge/-Gmail-202020?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticiaplang" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-202020?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://leticiaplang.github.io" target="_blank"><img src="https://img.shields.io/badge/My_Universe-202020?style=for-the-badge&logo=blog&logoColor=white" target="_blank"></a>
-  <a href="https://leticiaplang.github.io/lpl_posts/" target="_blank"><img src="https://img.shields.io/badge/My Notebooks-202020?style=for-the-badge&logo=blog&logoColor=white" target="_blank"></a>
+  <a href="https://leticiaplang.github.io/lpl_posts/" target="_blank"><img src="https://img.shields.io/badge/My Publications-202020?style=for-the-badge&logo=blog&logoColor=white" target="_blank"></a>
 </div>
 
 <div>
