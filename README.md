@@ -24,13 +24,11 @@
                                                                                                                     
 ▫️ I'm usually working on my profile, site and projects, so let me know if I can answer questions about some work in progress
                                                                                                                     
-▫️ If you want know *All My Publications*, you can access [My Universe](https://leticiaplang.github.io). There I post experience, teory and codes with their respective links to all content.
+▫️ I recommend you access [My Universe](https://leticiaplang.github.io). There I have all my publications with it's abstract and links (GitHub or My Publications) to get an optimized search.
 
-▫️ If you are looking for *My Codes Only & you are Not Familiar with GitHub*, you can access [My Notebooks](https://leticiaplang.github.io/lpl_posts/). There I publish my all notebooks and there is the possibility of search by content or select by tags.
+▫️ At [My Publications](https://leticiaplang.github.io/lpl_posts/) I have all my notebooks published as article. It's better if your are not familiar with GitHub and have time to open each publication and discover the content.
 
-▫️ If you are looking for *My Codes Only & you are Familiar with GitHub*, you can access [My Notebooks](https://leticiaplang.github.io/lpl_posts/) too. There I publish the link for github.
-
-▫️ Or if you want know my *6 Choosen Projects to Start*, you can scroll down the page and you are going to find abstract and access for these projects. 
+▫️ If you don't want to leave the github site, you can scroll down the page to access six choosen projects or you can take a look at my repositories.
 
                                                                                                                     
 ## So now... let's see some of my projects!                                                                                                                          
