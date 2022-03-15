@@ -16,7 +16,7 @@
 
 ##
 
-## Welcome to my data world! ☕ 🍪
+## Welcome to My Data World! ☕ 🍪
 
 ▫️ Here you can find basicaly my public projects and my contact   
                                                                                                                     
