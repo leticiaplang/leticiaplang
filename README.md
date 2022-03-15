@@ -24,7 +24,7 @@
                                                                                                                     
 ▫️ I'm usually working on my profile, site and projects, so let me know if I can answer questions about some work in progress
                                                                                                                     
-▫️ I recommend you access [My Universe](https://leticiaplang.github.io). There I have all my publications with it's abstract and links (GitHub or My Publications) to get an optimized search.
+▫️ I recommend you access [My Data Universe](https://leticiaplang.github.io). There I have all my publications with it's abstract and links (GitHub or My Publications) to get an optimized search.
 
 ▫️ At [My Publications](https://leticiaplang.github.io/lpl_posts/) I have all my notebooks published as article. It's better if your are not familiar with GitHub and have time to open each publication and discover the content.
 
