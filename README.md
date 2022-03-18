@@ -33,8 +33,8 @@
                                                                                                                     
 ## So now... let's see some of my projects!                                                                                                                          
 
+
 <p align="center">
-<img src="https://media2.giphy.com/media/BtzdPGn2uKk1kCvMAM/giphy.gif?cid=ecf05e47ochq99i65tzh7tdi9hmdqy1z54g8tyb11anvj8ab&rid=giphy.gif&ct=g" alt="animated" width="300" height="300" /> </p> 
+<img src="https://media3.giphy.com/media/fUXZfIDUl8K7lJJ9KK/giphy.gif?cid=ecf05e47jlbezfbgw5vdz30dqtv6kslq8qguejbj0bkwc5y0&rid=giphy.gif&ct=g" alt="animated" width="400" height="250" /> </p> 
 
-
-  
+ 
