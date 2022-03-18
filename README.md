@@ -1,3 +1,5 @@
+<meta property="og:image" content="https://giphy.com/gifs/Giflytics-marketing-giflytics-deep-dive-BtzdPGn2uKk1kCvMAM"/>
+
 <div> 
   <a href = "mailto:leticiaplang@gmail.com"><img src="https://img.shields.io/badge/-Gmail-202020?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticiaplang" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-202020?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
