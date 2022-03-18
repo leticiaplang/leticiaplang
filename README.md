@@ -1,5 +1,3 @@
-<meta property="og:image" content="https://giphy.com/gifs/Giflytics-marketing-giflytics-deep-dive-BtzdPGn2uKk1kCvMAM"/>
-
 <div> 
   <a href = "mailto:leticiaplang@gmail.com"><img src="https://img.shields.io/badge/-Gmail-202020?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticiaplang" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-202020?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -36,6 +34,7 @@
 ## So now... let's see some of my projects!                                                                                                                          
 
 <p align="center">
-| <img src="https://media2.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47lxndicitg8vud7vw1h9bqgvvjqo2lgtni15vjuju&rid=giphy.gif&ct=g" alt="animated" width="300" height="300"  /> |  <img src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47o67vosv0j8px6e40xu00ub38ouhnqrr5tvfs0ilm&rid=giphy.gif&ct=g" alt="animated" width="300" height="300" /> |
+<img src="https://media2.giphy.com/media/BtzdPGn2uKk1kCvMAM/giphy.gif?cid=ecf05e47ochq99i65tzh7tdi9hmdqy1z54g8tyb11anvj8ab&rid=giphy.gif&ct=g" alt="animated" width="300" height="300" /> </p> 
+
 
   
